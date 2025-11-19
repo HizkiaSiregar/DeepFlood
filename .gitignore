@@ -1,0 +1,21 @@
+# Ignore model weights
+models/*/*.h5
+models/*/*.keras
+models/*/*.pth
+models/*/*.tflite
+models/*/*.onnx
+
+# Ignore results
+*.json
+
+# Ignore uploaded user images
+uploads/*
+
+# Ignore virtual environment
+venv/
+env/
+__pycache__/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
