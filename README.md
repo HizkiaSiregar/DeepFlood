@@ -1,4 +1,4 @@
-# DeepFlood
+# DeepFlood: A Web-based Flood Segmentation using AI
 
 A Flask-based image segmentation web application developed for the 2025 Computer Science undergraduate thesis at Klabat University. DeepFlood uses a DeepLabV3+ model with an Xception backbone to detect and segment flood areas from aerial and satellite images. It also integrates Grad-CAM for explainability and model transparency.
 
